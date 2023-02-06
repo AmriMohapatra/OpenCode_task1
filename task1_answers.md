@@ -5,14 +5,14 @@
  ## what is github
  github is a website where we can host all our git repositories(a repository is essentially like a folder)through github we can share our code with other team members
  and they can also work on the same project as we are. Github also makes it easy to organise our project in a porfolio which can be shown to potential employers
- #Question 2 Explain very briefly any 5 basic git commands
+ # Question 2 Explain very briefly any 5 basic git commands
  ## clone:clone command copies a remote repo hosted on a website like github to our computer(local machine).
  ## add:add command saves the changes made to a queue so that these changes can be tracked, it doesn't commit the changes made to the main file
  ## commit : saves the changes to git
  ## push : push command saves the changes made to the files on your local machine to a remote repo
  ## pull : if some changes are made to our code in the remote repo(that is on github or a website like that) the pull command is used to download the changes 
  to our local machine.
- #How to make a pull request
+ # How to make a pull request
   * first go to a repo that we want to contribute to 
   * then select the repo and then click on the fork option. forking creates a copy of the repo on our account which we can make any changes to without affecting
   the original repo.
