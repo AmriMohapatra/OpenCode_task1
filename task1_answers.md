@@ -1,4 +1,4 @@
-#Question 1 what is the difference between git and github
+# Question 1 what is the difference between git and github
 ## what is git 
  Git is a open source version control system a version control system is a software which can save changes made to a program overtime so it can basically
  track every version of our code each time we make a change to it.
