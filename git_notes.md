@@ -20,7 +20,7 @@ shows all the commits you have made and the authors of those commits
 use git log -p -n ( where n is the number of last commits you want to view)
 # git diff command
 compare your working directory with your staged file 
-# git commit -a -m 
+# git commit -a -m <commit message>
 skips the staging area and commits the changes directly
 # rm command 
 removes the file 
